@@ -11,7 +11,7 @@
 5. [Nufi / Fe'efe'e](#Nufi)
 6. [Nda'nda'](#Ndanda)
 8. [Basaa](#Basaa)
-9. [Ewondo](#Ewondo)
+9. [Ewondo](#Annexe)
 10. [Conclusion](#Conclusion)
 11. [Bibliografia](#Bibliografia)
 
@@ -549,9 +549,11 @@ alifu kwa ujiti (alifu with a stick)
 
 malaika (angel)
 - filamu "MALAIKA Ep {1}": https://www.youtube.com/watch?v=SOOrm0qHDd8&t=2s
+- MZEE KICHECHE: https://www.youtube.com/@STERING_MAKOTI
 - 
 mkwaju (a shot)
 - filamu "MKWAJU Sehemu ya kwanza": https://www.youtube.com/watch?v=jZUY_20n-rA
+- Madebe Lidai: https://www.youtube.com/@madebelidai10
 
 
 ___
