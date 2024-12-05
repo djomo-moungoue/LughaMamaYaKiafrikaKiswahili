@@ -528,27 +528,30 @@ Examples illustratifs:
 
 ## Filamu
 
-### 2022
+### Filamu 10 Bora mwaka 2022
+chanzo: https://www.youtube.com/watch?v=gBBUYtK7aVk
 
-a
+vuta n'kuvute (tirer et tirer)
 
-b
+bado ni sawa hadi sasa? (still ok to date?)
 
-mlingi
+mlingi (mûre)
 
-mateka
+mateka (captif)
 
-merchandizer
+merchandizer (marchandiser)
 
-uncle
+mjomba (uncle)
 
-nakupenda
+nakupenda (i love you)
 
-alifu kwa ujiti
+alifu kwa ujiti (alifu with a stick)
 
-malaika
-
-mkwaju
+malaika (angel)
+- filamu "MALAIKA Ep {1}": https://www.youtube.com/watch?v=SOOrm0qHDd8&t=2s
+- 
+mkwaju (a shot)
+- filamu "MKWAJU Sehemu ya kwanza": https://www.youtube.com/watch?v=jZUY_20n-rA
 
 
 ___
