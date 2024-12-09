@@ -1,19 +1,12 @@
 # Jedwali La Yliyomo (Table des matières)
-[Muhtasari](#Muhtasari)
-
-[Utangulizi](#Utangulizi)
-
-[Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
-
-[Alfabeti](#Alfabeti)
-
-[Sentensi](#Sentensi)
-
-[Hitimisho](#Hitimisho)
-
-[Nyongeza](#Nyongeza)
-
-[Bibliografia](#Bibliografia)
+1. [Muhtasari](#Muhtasari)
+2. [Utangulizi](#Utangulizi)
+3. [Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
+4.  [Alfabeti](#Alfabeti)
+5.  [Sentensi](#Sentensi)
+6.  [Hitimisho](#Hitimisho)
+7.  [Nyongeza](#Nyongeza)
+8.  [Bibliografia](#Bibliografia)
 
 # Muhtasari
 (Resume)
