@@ -1,16 +1,19 @@
 # Jedwali La Yliyomo 
 (Table des matières)
-1. [Muhtasari](#Muhtasari)
-2. [Utangulizi](#Utangulizi)
-3. [Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
-4.  [Alfabeti](#Alfabeti)
-5.  [Sentensi](#Sentensi)
-6.  [Hitimisho](#Hitimisho)
-7.  [Nyongeza](#Nyongeza)
-8.  [Bibliografia](#Bibliografia)
+1. [Muhtasari (Résumé)](#Muhtasari)
+2. [Utangulizi (Introduction)](#Utangulizi)
+3. [Alfabeti (Alphabet)](#Alfabeti)
+5. [Matamshi (Prononciation)](#Matamshi)
+6. [Madarasa Ya Majina (Classes Nominales)](#Madarasa-Ya-Majina)
+7. [Usemi Wa Kawaida (Expressions Usuelles)](#Usemi-Wa-Kawaida)
+8. [Sentensi (Phrase)](#Sentensi)
+9. [Vitenzi (Verbes)](#Vitenzi)
+10. [Hitimisho (Conclusion)](#Hitimisho)
+11. [Nyongeza (Annexe)](#Nyongeza)
+12. [Bibliografia (Bigliographie)](#Bibliografia)
 
 # Muhtasari
-(Resume)
+(Résumé)
 
 
 # Utangulizi
@@ -27,25 +30,6 @@ Kiswahili signifie signifie litt. en francais "de la côte".
      - Communauté d'Afrique de l'Est (CAE)
      - Communauté de Développement d'Afrique Australe (SADC)
  
-# Usemi Wa Kawaida
-(Expressions usuelles)
-
-|usemi wa kawaida|expression usuelles|maoni|
-|---|---|---|
-|Ni nzuri.|c'est bien / joli.||
-|sio nzuri.|ce n'est pas bien / joli.||
-|ni bora.|c'est mieux / meilleur.||
-|sio bora.|ce n'est pas mieux / meilleur.||
-|wewe ni mrembo.|tu es beau / belle.||
-|wewe si mrembo.|tu n'est pas beau / belle.||
-|wewe ni mzuri.|tu es splendide / sexy.||
-|wewe si mrembo.|tu n'es pas splendide / sexy.||
-|kwanza, pili, tatu, .., kumi, kumi na tano, ishirini, mia, elfu|1er, 2ème, 3ème, ...,10ème, 15ème,20ème,100ème,1000ème||
-|filamu, filamu fupi, mfululizo wa televisheni, vichekesho, ucheshi, mchoro |filme, cours métrage, série télévisée, comédie, humour, sketch||
-|msimu, kipindi, sehemu, mwanzoni, katikati, kuelekea mwisho, mwishoni|saison, épisode, partie, au début, au milieu, vers la fin, à la fin||
-|Ilikuwa ni furaha? Ndiyo ilikuwa furaha. Hapana haikuwa hivyo. |C'était amusant? Oui c'était amusant. Non ce n'était pas. ||
-|Je, inachekesha? Ndiyo inachekesha sana. Hapana, haicheshi hata kidogo.|C'est drole? Oui c'est très drole. Non ce n'est pas du tout drôle.||
-
 # Alfabeti
 (Alphabet)
 
@@ -116,16 +100,56 @@ Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les cons
 |NYWA|NYWE|NYWI|NYWO|NYWU|||||||
 |SHWA|SHWE|SHWI|SHWO|SHWU|||||||
 
-## Matamshi 
+# Matamshi 
 (Prononciation)
 
 En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue nufi, ouest Cameroun) excepté l'avant dernière syllabe qui a le ton moyen 5 (tî de la langue nufi, ouest Cameroun) 
 
-Exemples d'illustration:
-1) 1 syllabe: **NI** (nî)
-2) 2 syllabes: **BA**-ba (bâbà)
-3) 3 syllabes: ha-**BA**-ri, nyu**MBA**ni (hàbârì, nyùmbânì)
-4) 4 syllabes: zu-**NGUM**-mza (zùngûmzà) ??? to double-check
+Mifano ya vielelezo (Exemples illustratifs):
+1) silabi 1: **ni** (nì)
+2) 2-silabi: **BA**-ba (bâbà)
+3) 3-silabi: ha-**BA**-ri, nyu**MBA**ni (hàbârì, nyùmbânì)
+4) 4-silabi: zu-**NGUM**-mza (zùngûmzà) ??? to double-check
+
+# Madarasa Ya Majina 
+(Classes nominales)
+
+|N°  de classe	|Préfixe|Sens habituel|
+|---|---|---|
+|1|m-, mw-, mu-|singulier: personnes|
+|2|wa-, w-|pluriel: personnes (contrepartie de la classe 1)|
+|3|m-, mw-, mu-|singulier: plantes|
+|4|mi-, my-|pluriel: plantes (contrepartie de la classe 3)|
+|5|ji-, j-, 0-|singulier: fruits|
+|6|ma-, m-|pluriel: fruits (contrepartie des classes 5, 9, 11, rarement 1)|
+|7|ki-, ch-|singulier: choses|
+|8|vi-, vy-|pluriel: choses (contrepartie de la classe 7)|
+|9|n-, ny-, m-, 0-|singulier: animaux, choses|
+|10|n-, ny-, m-, 0-|pluriel: animaux, choses (contrepartie des classes 9 and 11)|
+|11|u-, w-, uw-|singulier: pas de sémantique nette|
+|15|ku-, kw-|noms déverbaux|
+|16|pa-|localisations: proche de|
+|17|ku-|localisation indéfinie ou direction|
+|18|mu-, m-|localisations: à l’intérieur de|
+
+# Usemi Wa Kawaida
+(Expressions usuelles)
+
+|usemi wa kawaida|expression usuelles|maoni|
+|---|---|---|
+|Ni nzuri.|c'est bien / joli.||
+|sio nzuri.|ce n'est pas bien / joli.||
+|ni bora.|c'est mieux / meilleur.||
+|sio bora.|ce n'est pas mieux / meilleur.||
+|wewe ni mrembo.|tu es beau / belle.||
+|wewe si mrembo.|tu n'est pas beau / belle.||
+|wewe ni mzuri.|tu es splendide / sexy.||
+|wewe si mrembo.|tu n'es pas splendide / sexy.||
+|kwanza, pili, tatu, .., kumi, kumi na tano, ishirini, mia, elfu|1er, 2ème, 3ème, ...,10ème, 15ème,20ème,100ème,1000ème||
+|filamu, filamu fupi, mfululizo wa televisheni, vichekesho, ucheshi, mchoro |filme, cours métrage, série télévisée, comédie, humour, sketch||
+|msimu, kipindi, sehemu, mwanzoni, katikati, kuelekea mwisho, mwishoni|saison, épisode, partie, au début, au milieu, vers la fin, à la fin||
+|Ilikuwa ni furaha? Ndiyo ilikuwa furaha. Hapana haikuwa hivyo. |C'était amusant? Oui c'était amusant. Non ce n'était pas. ||
+|Je, inachekesha? Ndiyo inachekesha sana. Hapana, haicheshi hata kidogo.|C'est drole? Oui c'est très drole. Non ce n'est pas du tout drôle.||
 
 # Sentensi 
 (Phrase)
@@ -175,7 +199,7 @@ Ils permettent d'emphaser sur le pronom personnel sujet.
 |ewondo|||||||
 |français|moi|toi|lui/elle|nous|vous|eux/elles|qui a fait ses devoirs de la maison? --> moi monsieur|
 
-## Vitenzi 
+# Vitenzi 
 (Verbes)
 
 Tous les verbes on le préfixe **ku** qui est semblable aux particule làh en nufi, dàh en nda'nda' et to en anglais. Excepté les verbe monosyllabiques, le préfixe des verbes multisillabiques disparait lors de la conjugaison dans des phrases. Les verbes kiswahili authentiques Bantu. Ils sont majoritaires et se caractérisent par le suffixe **-a**. Quelques verbes sont empruntés de l'Arabe et se terminent par **-e**, **-i** ou **-u**.
@@ -533,27 +557,6 @@ Examples illustratifs:
 |kuachirilia mateka|libérer un otage|
 |kukubaliana na mtu|être d'accord avec quelqu'un|
 |kushirikiana na polisi|coopérer avec le police|
-
-## Madarasa ya majina 
-(Classes nominales)
-
-|N°  de classe	|Préfixe|Sens habituel|
-|---|---|---|
-|1	|m-, mw-, mu-	|singulier: personnes|
-|2	|wa-, w-	|pluriel: personnes (contrepartie de la classe 1)|
-|3|	m-, mw-, mu-	|singulier: plantes|
-|4|	mi-, my-|	pluriel: plantes (contrepartie de la classe 3)|
-|5	|ji-, j-, 0-	|singulier: fruits|
-|6|	ma-, m-	|pluriel: fruits (contrepartie des classes 5, 9, 11, rarement 1)|
-|7|	ki-, ch-|	singulier: choses|
-|8	|vi-, vy-	|pluriel: choses (contrepartie de la classe 7)|
-|9|	n-, ny-, m-, 0-	|singulier: animaux, choses|
-|10|	n-, ny-, m-, 0-|	pluriel: animaux, choses (contrepartie des classes 9 and 11)|
-|11|	u-, w-, uw-|	singulier: pas de sémantique nette|
-|15|	ku-, kw-|	noms déverbaux|
-|16	|pa-	|localisations: proche de|
-|17|	ku-	|localisation indéfinie ou direction|
-|18|	mu-, m-|	localisations: à l’intérieur de|
 
 ---
 
