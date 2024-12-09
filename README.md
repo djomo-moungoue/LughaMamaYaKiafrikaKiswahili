@@ -1,12 +1,13 @@
 # Jedwali La Yliyomo (Table des matières)
-1. [Muhtasari](#Muhtasari)
-2. [Utangulizi](#Utangulizi)
-3. [Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
-4. [Alfabeti](#Alfabeti)
-5. [Sentensi](#Sentensi)
-6. [Hitimisho](#Hitimisho)
-7. [Nyongeza](#Nyongeza)
-8. [Bibliografia](#Bibliografia)
+[Muhtasari](#Muhtasari)
+[Utangulizi](#Utangulizi)
+[Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
+[Alfabeti](#Alfabeti)
+[Haribu](##Hirabu) 
+[Sentensi](#Sentensi)
+[Hitimisho](#Hitimisho)
+[Nyongeza](#Nyongeza)
+[Bibliografia](#Bibliografia)
 
 # Muhtasari
 (Resume)
@@ -42,10 +43,13 @@ Kiswahili signifie signifie litt. en francais "de la côte".
 
 # Alfabeti
 (Alphabet)
+
 > [!NOTE]
 > L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
 
-## Hirabu (Voyelles)
+## Hirabu 
+(Voyelles)
+
 Il existe 5 voyelles au total:
 1) Aa comme dans ancre, ex. a-sa-nte, baba = papa
 2) Ee comme dans tête, ex. embe = mangue
@@ -53,8 +57,11 @@ Il existe 5 voyelles au total:
 4) Oo comme dans oncle, ex. choo = toilettes
 5) Uu comme dans outre, ex. tunda = fruit
 
-## Silabi (Syllabes)
+## Silabi 
+(Syllabes)
+
 Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les consonnes dures sont: b, d, g, j.
+
 | Aa  | Ee  | Ii | Oo | Uu | kiswahili | lingala | nufi | nda'nda' | français | anglais | commentaire |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |BA|BE|BI|BO|BU|ba-ba||||banque|||
@@ -104,7 +111,9 @@ Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les cons
 |NYWA|NYWE|NYWI|NYWO|NYWU|||||||
 |SHWA|SHWE|SHWI|SHWO|SHWU|||||||
 
-## Matamshi (Prononciation)
+## Matamshi 
+(Prononciation)
+
 En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue nufi, ouest Cameroun) excepté l'avant dernière syllabe qui a le ton moyen 5 (tî de la langue nufi, ouest Cameroun) 
 
 Exemples d'illustration:
@@ -113,9 +122,11 @@ Exemples d'illustration:
 3) 3 syllabes: ha-**BA**-ri, nyu**MBA**ni (hàbârì, nyùmbânì)
 4) 4 syllabes: zu-**NGUM**-mza (zùngûmzà) ??? to double-check
 
-# Sentensi (Phrase)
+# Sentensi 
+(Phrase)
 
-## Muundo wa sentensi (Structure de la phrase)
+## Muundo wa sentensi 
+(Structure de la phrase)
 
 |somo (sujet)|wakati wa kitenzi (temps verbal)|kintenzi (verbe)|nomino (nom)|uakifishaji (ponctuation)|maelezo (description)|maoni (commentaire)|
 |---|---|---|---|---|---|---|
@@ -131,7 +142,8 @@ Exemples d'illustration:
 |ni-|-nge-|soma|kitabu kama ningenkuwa na wakati wa kutosha|.|j'aurais lu un livre si j'avais assez de temps. (conditionnel)|google translate|
 |ku-|-|some|kunaweza kuboresha ujuzi wangu|.|que la lecture enrichisse mes connaissances. (subjonctif)|google translate|
 
-## Mada Viwakilishi Binafsi (Pronoms Personels sujets)
+## Mada Viwakilishi Binafsi 
+(Pronoms Personels sujets)
 
 |Lugha|1|2|3|4|5|6|sentensi na|maoni|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -143,7 +155,9 @@ Exemples d'illustration:
 |ewondo|mà|wà|à|bìá|mìá|bá||
 |français|je|tu|il/elle|nous|vous|ils/elles|je/tu/... apprends le francais||
 
-## Viwakilishi vya mada (Pronoms toniques sujets)
+## Viwakilishi vya mada 
+(Pronoms toniques sujets)
+
 Ils permettent d'emphaser sur le pronom personnel sujet.
 
 |Lugha|1|2|3|4|5|6|sentensi na |
@@ -156,7 +170,8 @@ Ils permettent d'emphaser sur le pronom personnel sujet.
 |ewondo|||||||
 |français|moi|toi|lui/elle|nous|vous|eux/elles|qui a fait ses devoirs de la maison? --> moi monsieur|
 
-## Vitenzi (Verbes)
+## Vitenzi 
+(Verbes)
 
 Tous les verbes on le préfixe **ku** qui est semblable aux particule làh en nufi, dàh en nda'nda' et to en anglais. Excepté les verbe monosyllabiques, le préfixe des verbes multisillabiques disparait lors de la conjugaison dans des phrases. Les verbes kiswahili authentiques Bantu. Ils sont majoritaires et se caractérisent par le suffixe **-a**. Quelques verbes sont empruntés de l'Arabe et se terminent par **-e**, **-i** ou **-u**.
 
@@ -169,7 +184,8 @@ Examples illustratifs:
 - ku-samehe mtu = pardonner quelqu'un, to forgive somebody --> ninamsamehe wewe = jte te pardonne
 - ku-hesabu = compter, to count --> ninahesabu = je compte
 
-### Vitenzi vya silabi 1 (Verbes à 1 syllabe)
+### Vitenzi vya silabi 1 
+(Verbes à 1 syllabe)
 
 |kiswahili|francais|
 |---|---|
@@ -187,7 +203,8 @@ Examples illustratifs:
 |kuwa wakili|devenir avocat|
 |kuwa wazimu|devenir fou|
 
-### Vitenzi 2-silabi (Verbes à 2 syllabes)
+### Vitenzi 2-silabi 
+(Verbes à 2 syllabes)
 
 |kiswahili|francais|
 |:---:|:---:|
@@ -306,7 +323,8 @@ Examples illustratifs:
 |kuwasha mshumaa|allumer une bougie|
 |kuzama na mashua|couler un bateau|
 
-### Vitenzi 3-silabi (Verbes à 3 syllabes)
+### Vitenzi 3-silabi 
+(Verbes à 3 syllabes)
 
 |kiswahili|francais|
 |---|---|
@@ -449,7 +467,8 @@ Examples illustratifs:
 |kuzungumza juu ya kitu|perler de quelque chose|
 |kuzungumza lugha|parler une langue|
 
-### Vitenzi 4-silabi (Verbes à 4 syllabes)
+### Vitenzi 4-silabi 
+(Verbes à 4 syllabes)
 
 |kiswahili|francais|
 |---|---|
@@ -498,7 +517,8 @@ Examples illustratifs:
 |kutokuacha mtu nyuma|ne laisser personne derriere|
 |kuwanyanyasa watu|opprimer le peuple|
 
-### Vitenzi 5-silabi (Verbes à 5 syllabes)
+### Vitenzi 5-silabi 
+(Verbes à 5 syllabes)
 
 |kiswahili|francais|
 |---|---|
@@ -509,7 +529,8 @@ Examples illustratifs:
 |kukubaliana na mtu|être d'accord avec quelqu'un|
 |kushirikiana na polisi|coopérer avec le police|
 
-## Madarasa ya majina (Classes nominales)
+## Madarasa ya majina 
+(Classes nominales)
 
 |N°  de classe	|Préfixe|Sens habituel|
 |---|---|---|
@@ -532,13 +553,16 @@ Examples illustratifs:
 ---
 
 
-# Hitimisho (Conclusion)
+# Hitimisho 
+(Conclusion)
 
 ---
 
-# Nyongeza (Annexe)
+# Nyongeza 
+(Annexe)
 
 ## Filamu
+(Filmes)
 
 ### Filamu 10 Bora mwaka 2022
 chanzo: https://www.youtube.com/watch?v=gBBUYtK7aVk
@@ -567,8 +591,11 @@ mkwaju (a shot)
 - filamu "MKWAJU Sehemu ya kwanza": https://www.youtube.com/watch?v=jZUY_20n-rA
 - Madebe Lidai: https://www.youtube.com/@madebelidai10
 
+## Mfululizo Wa Digital
+(Séries Digitales)
 ___
 
-# Bibliografia (Bibliographie)
+# Bibliografia 
+(Bibliographie)
 
 ---
