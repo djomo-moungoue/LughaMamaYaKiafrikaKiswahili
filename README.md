@@ -7,8 +7,6 @@
 
 [Alfabeti](#Alfabeti)
 
-[Haribu](##Hirabu) 
-
 [Sentensi](#Sentensi)
 
 [Hitimisho](#Hitimisho)
