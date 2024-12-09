@@ -40,6 +40,11 @@ Kiswahili signifie signifie litt. en francais "de la côte".
 |wewe si mrembo.|tu n'est pas beau / belle.||
 |wewe ni mzuri.|tu es splendide / sexy.||
 |wewe si mrembo.|tu n'es pas splendide / sexy.||
+|kwanza, pili, tatu, .., kumi, kumi na tano, ishirini, mia, elfu|1er, 2ème, 3ème, ...,10ème, 15ème,20ème,100ème,1000ème||
+|filamu, filamu fupi, mfululizo wa televisheni, vichekesho, ucheshi, mchoro |filme, cours métrage, série télévisée, comédie, humour, sketch||
+|msimu, kipindi, sehemu, mwanzoni, katikati, kuelekea mwisho, mwishoni|saison, épisode, partie, au début, au milieu, vers la fin, à la fin||
+|Ilikuwa ni furaha? Ndiyo ilikuwa furaha. Hapana haikuwa hivyo. |C'était amusant? Oui c'était amusant. Non ce n'était pas. ||
+|Je, inachekesha? Ndiyo inachekesha sana. Hapana, haicheshi hata kidogo.|C'est drole? Oui c'est très drole. Non ce n'est pas du tout drôle.||
 
 # Alfabeti
 (Alphabet)
