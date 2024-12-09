@@ -150,6 +150,9 @@ Mifano ya vielelezo (Exemples illustratifs):
 |msimu, kipindi, sehemu, mwanzoni, katikati, kuelekea mwisho, mwishoni|saison, épisode, partie, au début, au milieu, vers la fin, à la fin||
 |Ilikuwa ni furaha? Ndiyo ilikuwa furaha. Hapana haikuwa hivyo. |C'était amusant? Oui c'était amusant. Non ce n'était pas. ||
 |Je, inachekesha? Ndiyo inachekesha sana. Hapana, haicheshi hata kidogo.|C'est drole? Oui c'est très drole. Non ce n'est pas du tout drôle.||
+|Katuni. Hati.|Dessin animé. Documentaire.||
+|Filamu ya vitendo, ya vichekesho, ya vita, ya upelelezi, ya kutisha|Film d'action, comique, de guerre, policier, d'horreur||
+|Filamu ya maigizo, ya adventure, ya ajabu, ya Magharibi, ya uongo ya kisayansi.|Film dramatique, d'aventure, fantastique, Western, de science-fiction.||
 
 # Sentensi 
 (Phrase)
