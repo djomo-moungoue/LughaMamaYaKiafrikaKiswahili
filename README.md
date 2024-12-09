@@ -1,17 +1,19 @@
 # Jedwali La Yliyomo (Table des matières)
 1. [Muhtasari](#Muhtasari)
 2. [Utangulizi](#Utangulizi)
-3. [Usemi Wa Kawaida](#UsemiWaKawaida)
+3. [Usemi Wa Kawaida](#Usemi-Wa-Kawaida)
 4. [Alfabeti](#Alfabeti)
 5. [Sentensi](#Sentensi)
 6. [Hitimisho](#Hitimisho)
 7. [Nyongeza](#Nyongeza)
 8. [Bibliografia](#Bibliografia)
 
-# Muhtasari (Resume)
+# Muhtasari
+(Resume)
 
 
-# Utangulizi (Introduction)
+# Utangulizi
+(Introduction)
 
 Kiswahili signifie signifie litt. en francais "de la côte". 
 - Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues tel que l'arabe, le perse, le kutchi endien et l'anglais.
@@ -25,6 +27,7 @@ Kiswahili signifie signifie litt. en francais "de la côte".
      - Communauté de Développement d'Afrique Australe (SADC)
  
 # Usemi Wa Kawaida
+(Expressions usuelles)
 
 |usemi wa kawaida|expression usuelles|maoni|
 |---|---|---|
@@ -37,7 +40,8 @@ Kiswahili signifie signifie litt. en francais "de la côte".
 |wewe ni mzuri.|tu es splendide / sexy.||
 |wewe si mrembo.|tu n'es pas splendide / sexy.||
 
-# Alfabeti (Alphabet)
+# Alfabeti
+(Alphabet)
 > [!NOTE]
 > L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
 
