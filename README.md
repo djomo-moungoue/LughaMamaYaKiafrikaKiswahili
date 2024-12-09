@@ -1,23 +1,17 @@
-# LughaMamaYaKiafrikaKiswahili
-
-# Kiswahili
-
-## Jedwali La Yliyomo (Table des matières)
+# Jedwali La Yliyomo (Table des matières)
 1. [Muhtasari](#Muhtasari)
-2. [Introduction](#Utangulizi)
-3. [Alfabeti](#Alfabeti)
-4. [Sentensi](#Sentensi)
-7. [Lingala](#Lingala)
-5. [Nufi / Fe'efe'e](#Nufi)
-6. [Nda'nda'](#Ndanda)
-8. [Basaa](#Basaa)
-9. [Ewondo](#Annexe)
-10. [Conclusion](#Conclusion)
-11. [Bibliografia](#Bibliografia)
+2. [Utangulizi](#Utangulizi)
+3. [Usemi Wa Kawaida](#UsemiWaKawaida)
+4. [Alfabeti](#Alfabeti)
+5. [Sentensi](#Sentensi)
+6. [Hitimisho](#Hitimisho)
+7. [Nyongeza](#Nyongeza)
+8. [Bibliografia](#Bibliografia)
 
-## Muhtasari (Resume)
+# Muhtasari (Resume)
 
-## Utangulizi (Introduction)
+
+# Utangulizi (Introduction)
 
 Kiswahili signifie signifie litt. en francais "de la côte". 
 - Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues tel que l'arabe, le perse, le kutchi endien et l'anglais.
@@ -29,12 +23,25 @@ Kiswahili signifie signifie litt. en francais "de la côte".
      - Union Africaine (UA)
      - Communauté d'Afrique de l'Est (CAE)
      - Communauté de Développement d'Afrique Australe (SADC)
+ 
+# Usemi Wa Kawaida
 
-## Alfabeti (Alphabet)
+|usemi wa kawaida|expression usuelles|maoni|
+|---|---|---|
+|Ni nzuri.|c'est bien / joli.||
+|sio nzuri.|ce n'est pas bien / joli.||
+|ni bora.|c'est mieux / meilleur.||
+|sio bora.|ce n'est pas mieux / meilleur.||
+|wewe ni mrembo.|tu es beau / belle.||
+|wewe si mrembo.|tu n'est pas beau / belle.||
+|wewe ni mzuri.|tu es splendide / sexy.||
+|wewe si mrembo.|tu n'es pas splendide / sexy.||
+
+# Alfabeti (Alphabet)
 > [!NOTE]
 > L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
 
-### Hirabu (Voyelles)
+## Hirabu (Voyelles)
 Il existe 5 voyelles au total:
 1) Aa comme dans ancre, ex. a-sa-nte, baba = papa
 2) Ee comme dans tête, ex. embe = mangue
@@ -42,7 +49,7 @@ Il existe 5 voyelles au total:
 4) Oo comme dans oncle, ex. choo = toilettes
 5) Uu comme dans outre, ex. tunda = fruit
 
-### Silabi (Syllabes)
+## Silabi (Syllabes)
 Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les consonnes dures sont: b, d, g, j.
 | Aa  | Ee  | Ii | Oo | Uu | kiswahili | lingala | nufi | nda'nda' | français | anglais | commentaire |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -93,7 +100,7 @@ Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les cons
 |NYWA|NYWE|NYWI|NYWO|NYWU|||||||
 |SHWA|SHWE|SHWI|SHWO|SHWU|||||||
 
-### Matamshi (Prononciation)
+## Matamshi (Prononciation)
 En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue nufi, ouest Cameroun) excepté l'avant dernière syllabe qui a le ton moyen 5 (tî de la langue nufi, ouest Cameroun) 
 
 Exemples d'illustration:
@@ -102,9 +109,9 @@ Exemples d'illustration:
 3) 3 syllabes: ha-**BA**-ri, nyu**MBA**ni (hàbârì, nyùmbânì)
 4) 4 syllabes: zu-**NGUM**-mza (zùngûmzà) ??? to double-check
 
-## Sentensi (Phrase)
+# Sentensi (Phrase)
 
-### Muundo wa sentensi (Structure de la phrase)
+## Muundo wa sentensi (Structure de la phrase)
 
 |somo (sujet)|wakati wa kitenzi (temps verbal)|kintenzi (verbe)|nomino (nom)|uakifishaji (ponctuation)|maelezo (description)|maoni (commentaire)|
 |---|---|---|---|---|---|---|
@@ -120,7 +127,7 @@ Exemples d'illustration:
 |ni-|-nge-|soma|kitabu kama ningenkuwa na wakati wa kutosha|.|j'aurais lu un livre si j'avais assez de temps. (conditionnel)|google translate|
 |ku-|-|some|kunaweza kuboresha ujuzi wangu|.|que la lecture enrichisse mes connaissances. (subjonctif)|google translate|
 
-### Mada Viwakilishi Binafsi (Pronoms Personels sujets)
+## Mada Viwakilishi Binafsi (Pronoms Personels sujets)
 
 |Lugha|1|2|3|4|5|6|sentensi na|maoni|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -132,7 +139,7 @@ Exemples d'illustration:
 |ewondo|mà|wà|à|bìá|mìá|bá||
 |français|je|tu|il/elle|nous|vous|ils/elles|je/tu/... apprends le francais||
 
-### Viwakilishi vya mada (Pronoms toniques sujets)
+## Viwakilishi vya mada (Pronoms toniques sujets)
 Ils permettent d'emphaser sur le pronom personnel sujet.
 
 |Lugha|1|2|3|4|5|6|sentensi na |
@@ -145,7 +152,7 @@ Ils permettent d'emphaser sur le pronom personnel sujet.
 |ewondo|||||||
 |français|moi|toi|lui/elle|nous|vous|eux/elles|qui a fait ses devoirs de la maison? --> moi monsieur|
 
-### Vitenzi (Verbes)
+## Vitenzi (Verbes)
 
 Tous les verbes on le préfixe **ku** qui est semblable aux particule làh en nufi, dàh en nda'nda' et to en anglais. Excepté les verbe monosyllabiques, le préfixe des verbes multisillabiques disparait lors de la conjugaison dans des phrases. Les verbes kiswahili authentiques Bantu. Ils sont majoritaires et se caractérisent par le suffixe **-a**. Quelques verbes sont empruntés de l'Arabe et se terminent par **-e**, **-i** ou **-u**.
 
@@ -487,7 +494,7 @@ Examples illustratifs:
 |kutokuacha mtu nyuma|ne laisser personne derriere|
 |kuwanyanyasa watu|opprimer le peuple|
 
-#### Vitenzi 5-silabi (Verbes à 5 syllabes)
+### Vitenzi 5-silabi (Verbes à 5 syllabes)
 
 |kiswahili|francais|
 |---|---|
@@ -520,7 +527,8 @@ Examples illustratifs:
 
 ---
 
-# Conclusion (Conclusion)
+
+# Hitimisho (Conclusion)
 
 ---
 
@@ -554,7 +562,6 @@ malaika (angel)
 mkwaju (a shot)
 - filamu "MKWAJU Sehemu ya kwanza": https://www.youtube.com/watch?v=jZUY_20n-rA
 - Madebe Lidai: https://www.youtube.com/@madebelidai10
-
 
 ___
 
