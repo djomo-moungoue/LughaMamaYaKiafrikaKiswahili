@@ -561,40 +561,30 @@ Examples illustratifs:
 # Nyongeza 
 (Annexe)
 
+## Mfululizo Wa Digital
+(Séries Digitales)
+1. [MR BIGi BIGI Kituo cha YouTube](https://www.youtube.com/@mrbigibigi9829)
+2. [MZEE KICHECHE Kituo cha YouTube](https://www.youtube.com/@STERING_MAKOTI)
+3. [Madebe Lidai Kituo cha YouTube](https://www.youtube.com/@madebelidai10)
+
 ## Filamu
 (Filmes)
 
 ### Filamu 10 Bora mwaka 2022
 chanzo: https://www.youtube.com/watch?v=gBBUYtK7aVk
 
-vuta n'kuvute (tirer et tirer)
-
-bado ni sawa hadi sasa? (still ok to date?)
-
-mlingi (mûre)
-
-mateka (captif)
-
-merchandizer (marchandiser)
-
-mjomba (uncle)
-
-nakupenda (i love you)
-
-alifu kwa ujiti (alifu with a stick)
-
-malaika (angel)
-- filamu "MALAIKA Ep {1}": https://www.youtube.com/watch?v=SOOrm0qHDd8&t=2s
-- MZEE KICHECHE: https://www.youtube.com/@STERING_MAKOTI
-- 
-mkwaju (a shot)
+1. vuta n'kuvute (tirer et tirer)
+2. bado ni sawa hadi sasa? (still ok to date?)
+3. mlingi (mûre)
+4. mateka (captif)
+5. merchandizer (marchandiser)
+6. mjomba (uncle)
+7. nakupenda (i love you)
+8. alifu kwa ujiti (alifu with a stick)
+9. malaika (angel)
+10. mkwaju (a shot)
 - filamu "MKWAJU Sehemu ya kwanza": https://www.youtube.com/watch?v=jZUY_20n-rA
-- Madebe Lidai: https://www.youtube.com/@madebelidai10
 
-## Mfululizo Wa Digital
-(Séries Digitales)
-
-1. [MR BIGi BIGI YouTube](www.youtube.com/@mrbigibigi9829)
 ___
 
 # Bibliografia 
