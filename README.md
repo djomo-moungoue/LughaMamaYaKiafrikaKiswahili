@@ -26,8 +26,7 @@ Union Africaine (UA), Communauté d'Afrique de l'Est (CAE).*
 # Alfabeti
 (Alphabet)
 
-> [!NOTE]
-> L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
+L'alphabet Kiswahili utile 24/26 lettres de l'alphabet anglais en excluant les lettres Q, X et en utilisant la lettre C toujours combinée à la lettre H, sous la forme "CH".
 
 ## Hirabu 
 (Voyelles)
@@ -96,16 +95,19 @@ Il existe 27 syllabes au total dont 17 à 2 lettres et 10 à 3 lettres. Les cons
 # Matamshi 
 (Prononciation)
 
-En kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue nufi, ouest Cameroun) excepté l'avant dernière syllabe qui a le ton moyen 5 (tî de la langue nufi, ouest Cameroun) 
+En Kiswahili, les locuteurs natifs insistent généralement sur l'avant dernière syllabe des mots. Autrement dit, toutes les syllabes ont le ton descendant 1 (nshʉ̀' de la langue Nufi, Cameroun :cameroon:) excepté l'avant dernière syllabe qui a le ton moyen 5 (tî de la langue Nufi).
 
 Mifano ya vielelezo (Exemples illustratifs):
 1) silabi 1: **ni** (nì)
 2) 2-silabi: **BA**-ba (bâbà)
 3) 3-silabi: ha-**BA**-ri, nyu**MBA**ni (hàbârì, nyùmbânì)
-4) 4-silabi: zu-**NGUM**-mza (zùngûmzà) ??? to double-check
+4) *4-silabi: zu-**NGUM**-mza (zùngûmzà) ??? to double-check"
 
 # Madarasa Ya Majina 
 (Classes nominales)
+
+> [!NOTE]
+> (x) = (contrepartie de la classe x)
 
 |N°  de classe	|Préfixe|Sens habituel|
 |---|---|---|
