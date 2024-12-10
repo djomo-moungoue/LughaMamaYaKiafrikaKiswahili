@@ -19,17 +19,10 @@
 # Utangulizi
 (Introduction)
 
-Kiswahili signifie signifie litt. en francais "de la côte". 
-- Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues tel que l'arabe, le perse, le kutchi endien et l'anglais.
-- Le Kiswahili est la langue africaine la plus parlé en Afrique avec env. 150 Mio de locuteurs.
-- Elle est la langue officcielle de la Tanzanie :tanzania:, du Kenya :kenya:, de l'Ouganda :uganda: et le Rwanda :rwanda:.
-- Elle est une des langues nationales de la République Démocratique du Congo (RDC) situé en Afrique centrale.
-- Elle est parmi les langues minoritaires au Burundi et en Mozambique.
-- Elle est parmi les langues officielles dans les organisations africaines suivantes:
-     - Union Africaine (UA)
-     - Communauté d'Afrique de l'Est (CAE)
-     - Communauté de Développement d'Afrique Australe (SADC)
- 
+Kiswahili signifie signifie litt. en francais "de la côte". Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues: shukrani derive du mot Arabe shukran et signifie merci; *le perse, le kutchi endien et l'anglais*. Le Kiswahili est en 2025 la langue maternelle africaine ayant le plus grand nombre de locuteurs, estimé à environ 150 millions.
+*Le Kiswahili est parmi les langues officielles de la Tanzanie :tanzania: (environ ... millions d'habitants), du Kenya :kenya: (environ ... millions d'habitants), de l'Ouganda :uganda: (environ ... millions d'habitants) et le Rwanda :rwanda: (environ ... millions d'habitants). Elle est une des langues nationales de la République Démocratique du Congo (environ ... millions d'habitants) situé en Afrique centrale. Elle est comptée parmi les langues véhiculaires au Burundi (environ ... millions d'habitants) et en Mozambique (environ ... millions d'habitants). Le Kiswahili est parmi les langues officielles dans les organisations africaines suivantes: Communauté de Développement d'Afrique Australe (SADC)
+Union Africaine (UA), Communauté d'Afrique de l'Est (CAE).*
+     - 
 # Alfabeti
 (Alphabet)
 
@@ -40,11 +33,11 @@ Kiswahili signifie signifie litt. en francais "de la côte".
 (Voyelles)
 
 Il existe 5 voyelles au total:
-1) Aa comme dans ancre, ex. a-sa-nte, baba = papa
-2) Ee comme dans tête, ex. embe = mangue
-3) Ii comme dans fil, ex. kiti = chaise
-4) Oo comme dans oncle, ex. choo = toilettes
-5) Uu comme dans outre, ex. tunda = fruit
+1) **Aa** comme dans ancre, ex. a-sa-nte, baba = papa
+2) **Ee** comme dans tête, ex. embe = mangue
+3) *"Ii** comme dans fil, ex. kiti = chaise
+4) **Oo** comme dans oncle, ex. choo = toilettes
+5) *"Uu** comme dans outre, ex. tunda = fruit
 
 ## Silabi 
 (Syllabes)
