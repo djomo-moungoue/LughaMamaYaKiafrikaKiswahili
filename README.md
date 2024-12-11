@@ -148,6 +148,8 @@ Mifano ya vielelezo (Exemples illustratifs):
 |Katuni. Hati.|Dessin animé. Documentaire.||
 |Filamu ya vitendo, ya vichekesho, ya vita, ya upelelezi, ya kutisha|Film d'action, comique, de guerre, policier, d'horreur||
 |Filamu ya maigizo, ya adventure, ya ajabu, ya Magharibi, ya uongo ya kisayansi.|Film dramatique, d'aventure, fantastique, Western, de science-fiction.||
+|Ni ndogo sana. Ni kukwa (mno/sana)|C'est très petit. C'est énorme, (très) gros/grand/large||
+|mpango mzuri!|Bonne affaire/initiative!||
 
 # Sentensi 
 (Phrase)
