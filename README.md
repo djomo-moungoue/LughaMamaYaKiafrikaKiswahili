@@ -150,17 +150,17 @@ Mifano ya vielelezo (Exemples illustratifs):
 |Filamu ya maigizo, ya adventure, ya ajabu, ya Magharibi, ya uongo ya kisayansi.|Film dramatique, d'aventure, fantastique, Western, de science-fiction.||
 |Ni ndogo sana. Ni kukwa (mno/sana)|C'est très petit. C'est énorme, (très) gros/grand/large||
 |mpango mzuri!|Bonne affaire/initiative!||
-|Nini?| = what?||
-|Nani?| = who ? / whom ?||
-|Wapi?| = where ?||
-|Ngani ? |= what ?||
-|Ngapi? |= How much / many ?||
-|Kwanini?| = why||
-|Yupi?| = what's the ?||
-|Lini?| = when ?||
-|İpi?| = which one ?||
-|Unasemaje?| = how do you say ?||
-|Vipi?| = what's up ?||
+|Nani?| = qui ? / à qui ?||
+|Kwa nini? - Kwa sababu, Kwa sababu ya| = pourquoi? - parce que, à cause de/du||
+|Nini? - hii, kwamba| Quoi? - ceci, celà||
+|Wapi?| where ?||
+|Ngani ? |what ?||
+|Ngapi? |How much / many ?||
+|Yupi?| what's the ?||
+|Lini?| when ?||
+|İpi?| which one ?||
+|Unasemaje?| how do you say ?||
+|Vipi?| what's up ?||
 
 # Sentensi 
 (Phrase)
