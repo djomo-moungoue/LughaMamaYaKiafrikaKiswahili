@@ -112,15 +112,15 @@ Mifano ya vielelezo (Exemples illustratifs):
 |N°  de classe	|Préfixe|Sens habituel|
 |---|---|---|
 |1|m-, mw-, mu-|singulier: personnes|
-|2|wa-, w-|pluriel: personnes (contrepartie de la classe 1)|
+|2|wa-, w-|pluriel: personnes (1)|
 |3|m-, mw-, mu-|singulier: plantes|
-|4|mi-, my-|pluriel: plantes (contrepartie de la classe 3)|
+|4|mi-, my-|pluriel: plantes (3)|
 |5|ji-, j-, 0-|singulier: fruits|
-|6|ma-, m-|pluriel: fruits (contrepartie des classes 5, 9, 11, rarement 1)|
+|6|ma-, m-|pluriel: fruits (5, 9, 11, rarement 1)|
 |7|ki-, ch-|singulier: choses|
-|8|vi-, vy-|pluriel: choses (contrepartie de la classe 7)|
+|8|vi-, vy-|pluriel: choses (7)|
 |9|n-, ny-, m-, 0-|singulier: animaux, choses|
-|10|n-, ny-, m-, 0-|pluriel: animaux, choses (contrepartie des classes 9 and 11)|
+|10|n-, ny-, m-, 0-|pluriel: animaux, choses (9, 11)|
 |11|u-, w-, uw-|singulier: pas de sémantique nette|
 |15|ku-, kw-|noms déverbaux|
 |16|pa-|localisations: proche de|
@@ -161,6 +161,7 @@ Mifano ya vielelezo (Exemples illustratifs):
 |İpi?| which one ?||
 |Unasemaje?| how do you say ?||
 |Vipi?| what's up ?||
+|tafadhali jaribu tena baadaye.|veuillez réessayer plus tard.||
 
 # Sentensi 
 (Phrase)
