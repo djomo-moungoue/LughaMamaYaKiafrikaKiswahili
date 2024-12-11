@@ -162,6 +162,7 @@ Mifano ya vielelezo (Exemples illustratifs):
 |Unasemaje?| how do you say ?||
 |Vipi?| what's up ?||
 |tafadhali jaribu tena baadaye.|veuillez réessayer plus tard.||
+|Mfano: ninaomba samahani kwa kuchelewa.|Je m'excuse d'être en retard.||
 
 # Sentensi 
 (Phrase)
