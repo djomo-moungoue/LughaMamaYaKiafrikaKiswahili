@@ -19,8 +19,13 @@
 # Utangulizi
 (Introduction)
 
+> [!NOTE]
+> env. x MM loc. = environ
+> M, MM, MMM = mille(s), million(s), milliard(s)
+> loc. / hab. = de locuteurs / habitants
+
 Kiswahili signifie signifie litt. en francais "de la côte". Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues: shukrani derive du mot Arabe shukran et signifie merci; *le perse, le kutchi endien et l'anglais*. Le Kiswahili est en 2025 la langue maternelle africaine ayant le plus grand nombre de locuteurs, estimé à environ 150 millions.
-*Le Kiswahili est parmi les langues officielles de la Tanzanie :tanzania: (environ ... millions d'habitants), du Kenya :kenya: (environ ... millions d'habitants), de l'Ouganda :uganda: (environ ... millions d'habitants) et le Rwanda :rwanda: (environ ... millions d'habitants). Elle est une des langues nationales de la République Démocratique du Congo (environ ... millions d'habitants) situé en Afrique centrale. Elle est comptée parmi les langues véhiculaires au Burundi (environ ... millions d'habitants) et en Mozambique (environ ... millions d'habitants). Le Kiswahili est parmi les langues officielles dans les organisations africaines suivantes: Communauté de Développement d'Afrique Australe (SADC)
+*Le Kiswahili est parmi les langues officielles de la Tanzanie :tanzania: (env. 69 M loc.), du Kenya :kenya: (env. 56 M loc.), de l'Ouganda :uganda: (env. 69 M loc.) et le Rwanda :rwanda: (env. 69 M loc.). Elle est une des langues nationales de la République Démocratique du Congo (env. 10 M loc.) situé en Afrique centrale. Elle est comptée parmi les langues véhiculaires au Burundi (env. 69 M loc.) et en Mozambique (env. 69 M loc.). Le Kiswahili est parmi les langues officielles dans les organisations africaines suivantes: Communauté de Développement d'Afrique Australe (SADC)
 Union Africaine (UA), Communauté d'Afrique de l'Est (CAE).*
      - 
 # Alfabeti
@@ -164,7 +169,8 @@ Mifano ya vielelezo (Exemples illustratifs):
 |tafadhali jaribu tena baadaye.|veuillez réessayer plus tard.||
 |Kwa mfano: ninaomba samahani kwa kuchelewa.|Par exemple: Je m'excuse d'être en retard.||
 |Kwa; kutoka-kwa|for / by / into / to / with / by / the ; from-to||
-||||
+|Kwa bahati nzuri!; Kwa ajili ya uuzaji!|Bonne chance!; A vendre!||
+|Kwa barua; Kwa basi|Par e-mail; Par bus||
 # Sentensi 
 (Phrase)
 
