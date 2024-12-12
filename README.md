@@ -173,6 +173,7 @@ Mifano ya vielelezo (Exemples illustratifs):
 |Kwa; kutoka-kwa|for / by / into / to / with / by / the ; from-to||
 |Kwa bahati nzuri!; Kwa ajili ya uuzaji!|Bonne chance!; A vendre!||
 |Kwa barua; Kwa basi|Par e-mail; Par bus||
+|Kwa default; |Par défaut||
 # Sentensi 
 (Phrase)
 
