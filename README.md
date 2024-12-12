@@ -109,23 +109,23 @@ Mifano ya vielelezo (Exemples illustratifs):
 > [!NOTE]
 > (x) = (contrepartie de la classe x)
 
-|N°  de classe	|Préfixe|Sens habituel|
-|---|---|---|
-|1|m-, mw-, mu-|singulier: personnes|
-|2|wa-, w-|pluriel: personnes (1)|
-|3|m-, mw-, mu-|singulier: plantes|
-|4|mi-, my-|pluriel: plantes (3)|
-|5|ji-, j-, 0-|singulier: fruits|
-|6|ma-, m-|pluriel: fruits (5, 9, 11, rarement 1)|
-|7|ki-, ch-|singulier: choses|
-|8|vi-, vy-|pluriel: choses (7)|
-|9|n-, ny-, m-, 0-|singulier: animaux, choses|
-|10|n-, ny-, m-, 0-|pluriel: animaux, choses (9, 11)|
-|11|u-, w-, uw-|singulier: pas de sémantique nette|
-|15|ku-, kw-|noms déverbaux|
-|16|pa-|localisations: proche de|
-|17|ku-|localisation indéfinie ou direction|
-|18|mu-, m-|localisations: à l’intérieur de|
+|N°  de classe	|Préfixe|Sens habituel|Kwa Mfano|Par Exemple|
+|---|---|---|---|---|
+|1|m-, mw-, mu-|singulier: personnes|mtu|(individu)|
+|2|wa-, w-|pluriel: personnes (1)|watu|(individus)|
+|3|m-, mw-, mu-|singulier: plantes|mti|(arbre)|
+|4|mi-, my-|pluriel: plantes (3)|miti|(arbres)|
+|5|ji-, j-, 0-|singulier: fruits|||
+|6|ma-, m-|pluriel: fruits (5, 9, 11, rarement 1)|||
+|7|ki-, ch-|singulier: choses|||
+|8|vi-, vy-|pluriel: choses (7)|||
+|9|n-, ny-, m-, 0-|singulier: animaux, choses|||
+|10|n-, ny-, m-, 0-|pluriel: animaux, choses (9, 11)|||
+|11|u-, w-, uw-|singulier: pas de sémantique nette|||
+|15|ku-, kw-|noms déverbaux|||
+|16|pa-|localisations: proche de|||
+|17|ku-|localisation indéfinie ou direction|||
+|18|mu-, m-|localisations: à l’intérieur de|||
 
 # Usemi Wa Kawaida
 (Expressions usuelles)
@@ -162,8 +162,9 @@ Mifano ya vielelezo (Exemples illustratifs):
 |Unasemaje?| how do you say ?||
 |Vipi?| what's up ?||
 |tafadhali jaribu tena baadaye.|veuillez réessayer plus tard.||
-|Mfano: ninaomba samahani kwa kuchelewa.|Je m'excuse d'être en retard.||
-
+|Kwa mfano: ninaomba samahani kwa kuchelewa.|Par exemple: Je m'excuse d'être en retard.||
+|Kwa; kutoka-kwa|for / by / into / to / with / by / the ; from-to||
+||||
 # Sentensi 
 (Phrase)
 
