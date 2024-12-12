@@ -21,7 +21,9 @@
 
 > [!NOTE]
 > env. x MM loc. = environ
+> 
 > M, MM, MMM = mille(s), million(s), milliard(s)
+> 
 > loc. / hab. = de locuteurs / habitants
 
 Kiswahili signifie signifie litt. en francais "de la côte". Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues: shukrani derive du mot Arabe shukran et signifie merci; *le perse, le kutchi endien et l'anglais*. Le Kiswahili est en 2025 la langue maternelle africaine ayant le plus grand nombre de locuteurs, estimé à environ 150 millions.
