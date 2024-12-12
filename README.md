@@ -139,6 +139,8 @@ Mifano ya vielelezo (Exemples illustratifs):
 
 |usemi wa kawaida|expression usuelles|maoni|
 |---|---|---|
+|ndiyo/ndio/eeh|oui||
+|hapana/hasha/sivyo|non/bien sur que non/pas ainsi, sinon||
 |Ni nzuri.|c'est bien / joli.||
 |sio nzuri.|ce n'est pas bien / joli.||
 |ni bora.|c'est mieux / meilleur.||
