@@ -26,7 +26,15 @@
 > 
 > loc. / hab. = de locuteurs / habitants
 
-Kiswahili signifie signifie litt. en francais "de la côte". Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues: **shukrani** derive du mot Arabe **shukran** et signifie merci; **chaki** derive du mot Anglais **chalk** c'est-à-dire la craie; **daktari** provient de **dokter** en Perse donc docteur; **bima** resulte du mot Hindi **beema** qui veut dire assurance. Le Kiswahili est en 2025 la langue maternelle africaine ayant le plus grand nombre de locuteurs, estimé à env. 150 MM.
+Kiswahili signifie signifie litt. en francais "de la côte". Appartenant au groupe des langues Bantous, elle provient du commerce le long de la côte Est africaine et contient de ce fait des mots empruntés des nombreuses langues: 
+1. *shukrani* derive du mot Arabe *shukran* et signifie merci;
+2. *chaki* derive du mot Anglais *chalk* c'est-à-dire la craie;
+3. *daktari* provient de *dokter* en Perse donc docteur;
+4. *bima*, *gari* resulte du mot Hindi *beema*, *gari* qui veut dire assurance, voiture;
+6. *shule* provient de l'Allemand *Schule* qui signifie école;
+7. *meza* dérive du portugais et signigie table.
+
+Le Kiswahili est en 2025 la langue maternelle africaine ayant le plus grand nombre de locuteurs, estimé à env. 150 MM.
 *Le Kiswahili est parmi les langues officielles de la Tanzanie :tanzania: (env. 69 M loc.), du Kenya :kenya: (env. 56 MM loc.), de l'Ouganda :uganda: (env. x loc.) et le Rwanda :rwanda: (env. x loc..). Elle est une des langues nationales de la République Démocratique du Congo (env. 10 MM loc.) situé en Afrique centrale. Elle est comptée parmi les langues véhiculaires au Burundi (env. x loc.) et en Mozambique (env. x loc.). Le Kiswahili est parmi les langues officielles dans les organisations africaines suivantes: Communauté de Développement d'Afrique Australe (SADC)
 Union Africaine (UA), Communauté d'Afrique de l'Est (CAE).*
      - 
