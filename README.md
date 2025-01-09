@@ -142,8 +142,139 @@ Mifano ya vielelezo (Exemples illustratifs):
 |17|ku-|localisation indéfinie ou direction|||
 |18|mu-, m-|localisations: à l’intérieur de|||
 
+# Expression Pour Se Presenter
+
+Voici un exemple détaillé de présentation en langue swahili, accompagné de sa traduction en français :
+
+---
+
+### **Présentation en swahili :**
+
+1. **Jina langu ni...**  
+   (*Mon nom est...*)  
+   - *Mfano*: Jina langu ni Pierre Dupont.
+
+2. **Ninatoka...**  
+   (*Je viens de...*)  
+   - *Mfano*: Ninatoka Ufaransa. (*Je viens de France.*)
+
+3. **Ninaishi...**  
+   (*J'habite à...*)  
+   - *Mfano*: Ninaishi Nairobi, Kenya. (*J'habite à Nairobi, au Kenya.*)
+
+4. **Mimi ni mwanafunzi / mfanyakazi / mfanyabiashara.**  
+   (*Je suis étudiant / travailleur / entrepreneur.*)  
+   - *Mfano*: Mimi ni mwanafunzi wa sayansi ya kompyuta. (*Je suis étudiant en sciences informatiques.*)
+
+5. **Umri wangu ni miaka...**  
+   (*J'ai ... ans.*)  
+   - *Mfano*: Umri wangu ni miaka ishirini na tano. (*J'ai vingt-cinq ans.*)
+
+6. **Napenda...**  
+   (*J'aime...*)  
+   - *Mfano*: Napenda kusoma vitabu na kuangalia sinema. (*J'aime lire des livres et regarder des films.*)
+
+7. **Nina familia ya watu...**  
+   (*J'ai une famille de ... personnes.*)  
+   - *Mfano*: Nina familia ya watu watano. (*J'ai une famille de cinq personnes.*)
+
+8. **Ningependa kujifunza zaidi kuhusu...**  
+   (*J'aimerais apprendre davantage sur...*)  
+   - *Mfano*: Ningependa kujifunza zaidi kuhusu utamaduni wa Afrika Mashariki. (*J'aimerais en apprendre davantage sur la culture de l'Afrique de l'Est.*)
+
+9. **Asante kwa kunisikiliza.**  
+   (*Merci de m'avoir écouté.*)
+
+---
+
+### **Traduction en français :**
+1. *Mon nom est...*  
+   Exemple : Mon nom est Pierre Dupont.  
+
+2. *Je viens de...*  
+   Exemple : Je viens de France.
+
+3. *J'habite à...*  
+   Exemple : J'habite à Nairobi, au Kenya.
+
+4. *Je suis étudiant / travailleur / entrepreneur.*  
+   Exemple : Je suis étudiant en sciences informatiques.
+
+5. *J'ai ... ans.*  
+   Exemple : J'ai vingt-cinq ans.
+
+6. *J'aime...*  
+   Exemple : J'aime lire des livres et regarder des films.
+
+7. *J'ai une famille de ... personnes.*  
+   Exemple : J'ai une famille de cinq personnes.
+
+8. *J'aimerais apprendre davantage sur...*  
+   Exemple : J'aimerais en apprendre davantage sur la culture de l'Afrique de l'Est.
+
+9. *Merci de m'avoir écouté.*
+
+---
+
+### **Sources :**
+1. **Kamusi Project** (Dictionnaire swahili-anglais/français en ligne) : [kamusi.org](https://kamusi.org)  
+2. **Swahili Grammar and Vocabulary Resources** : [glosbe.com](https://glosbe.com)  
+3. Expérience linguistique et structures grammaticales issues de l'apprentissage du swahili.
+
+# Adresser des voeux
+
+Phrases simples et chaleureuses sont couramment utilisées pour adresser des vœux en swahili.
+
+### Bonne année
+
+Pour souhaiter une bonne année en langue **swahili**, voici les expressions courantes :  
+
+---
+
+### **1. Expressions classiques :**  
+- **Swahili :**  
+  - *Heri ya mwaka mpya!*  
+  - Traduction : Bonne année !  
+
+- **Swahili :**  
+  - *Heri za mwaka mpya!*  
+  - Traduction : Meilleurs vœux pour la nouvelle année !  
+
+---
+
+### **2. Ajout de bénédictions ou de souhaits spécifiques :**  
+- **Swahili :**  
+  - *Nakutakia mwaka mpya wenye mafanikio!*  
+  - Traduction : Je te souhaite une nouvelle année pleine de succès !  
+
+- **Swahili :**  
+  - *Mwaka mpya uwe wa furaha na baraka nyingi!*  
+  - Traduction : Que cette nouvelle année soit remplie de joie et de nombreuses bénédictions !  
+
+---
+
+### **3. Exemple d'utilisation dans une phrase complète :**  
+- **Swahili :**  
+  - *Heri ya mwaka mpya kwako na familia yako!*  
+  - Traduction : Bonne année à toi et à ta famille !  
+
+---
+
+### **Sources utilisées :**  
+1. **Ressources linguistiques en ligne :**  
+   - [Glosbe](https://glosbe.com) : Traducteur swahili-français.  
+   - [Swahili Hub](https://swahilihub.com) : Portail pour les locuteurs et apprenants de swahili.  
+
+2. **Ouvrages de référence :**  
+   - *Teach Yourself Swahili* par Joan Maw et Thomas Hinnebusch.  
+   - *Simplified Swahili* par Peter Wilson.  
+
+3. **Communauté et forums de langue :**  
+   - Discussions et validations sur des forums d'apprentissage de la langue swahili.
+
 # Usemi Wa Kawaida
 (Expressions usuelles)
+
 
 |usemi wa kawaida|expression usuelles|maoni|
 |---|---|---|
